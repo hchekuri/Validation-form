@@ -1,2 +1,2 @@
 # Validation-form
-Create a form to signup and validate inputs
+Create a form to signup and validate inputs using JavaScript
